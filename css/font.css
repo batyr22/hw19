@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Chokokutai';
+    src: url("fonts/Chokokutai-Regular.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.chokokutai-regular {
+    font-family: "Chokokutai", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
